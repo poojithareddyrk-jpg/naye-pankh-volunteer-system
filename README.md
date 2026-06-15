@@ -56,7 +56,7 @@ The system allows users to perform basic operations like adding, searching, dele
 4. Open `main.py` in any Python IDE  
    (VS Code / PyCharm / IDLE)
 
-5. Click the **Run (▶) button** to execute the program
+5. Click the **Run button** to execute the program
 
 6. The Tkinter GUI window will open and the application will start
 
@@ -103,6 +103,7 @@ NayePankh Foundation
 
 Poojitha P
 
-GitHub Profile: https://github.com/poojithareddyrk-jpg
+## GitHub:
+https://github.com/poojithareddyrk-jpg/naye-pankh-volunteer-system
 
 
