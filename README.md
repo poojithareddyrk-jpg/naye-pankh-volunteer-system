@@ -70,7 +70,7 @@ The system allows users to perform basic operations like adding, searching, dele
 - Report will be generated in `report.txt`
 
   ---
-  ## Screenshots
+## Screenshots
 
 Screenshots of the application are available in the `NayePankh Foundation` folder.
 
